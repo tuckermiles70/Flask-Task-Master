@@ -4,17 +4,17 @@ My walk-through of [this](https://www.youtube.com/watch?v=Z1RJmh_OqeA) Flask tut
 
 Below is a brief walkthrough of this basic create, read, update, and delete application
 
-<div style="text-align:center"><img src="./screencaps/1.png" /></div>
+<div style="text-align:center"><img src="./screencaps/1.PNG" /></div>
 
 You can easily add tasks:
 
-<div style="text-align:center"><img src="./screencaps/2.png" /></div>
+<div style="text-align:center"><img src="./screencaps/2.PNG" /></div>
 
 Simply update them:
 
-<div style="text-align:center"><img src="./screencaps/3.png" /></div>
-<div style="text-align:center"><img src="./screencaps/4.png" /></div>
+<div style="text-align:center"><img src="./screencaps/3.PNG" /></div>
+<div style="text-align:center"><img src="./screencaps/4.PNG" /></div>
 
 And lastly delete them!
 
-<div style="text-align:center"><img src="./screencaps/5.png" /></div>
+<div style="text-align:center"><img src="./screencaps/5.PNG" /></div>
